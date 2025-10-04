@@ -1,1 +1,2 @@
-# the-greatest-estate-developer
+# The Greatest Estate Developer
+Kim Suho, étudiant en génie civil, s'est éveillé en tant que fils d'une famille noble endettée. Pour sauver sa nouvelle famille, il dresse des plans d'architecture, mène des travaux et lotit des terrains en déployant ses connaissances en construction.
